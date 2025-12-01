@@ -5,6 +5,6 @@
 
   # xujielab's Website
 
-  Visit **[xujielab.github.io](https://xujielab.github.io)** 🚀
+  Visit **[xujielab.org](https://xujielab.org)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
