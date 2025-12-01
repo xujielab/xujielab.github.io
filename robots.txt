@@ -1,1 +1,1 @@
-Sitemap: https://xujielab.github.io/sitemap.xml
+Sitemap: https://xujielab.org/sitemap.xml
