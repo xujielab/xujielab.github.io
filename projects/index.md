@@ -15,7 +15,7 @@ nav:
 
 ## Featured
 
-<!{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+<!--{% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
 

@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-<!
+<!--
 {%
   include button.html
   type="email"
