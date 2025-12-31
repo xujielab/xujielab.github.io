@@ -11,18 +11,10 @@ nav:
 
 {% include search-info.html %}
 
-{% include section.html %}
-
 <!--
 ## Featured
-
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
-{% include section.html %}
--->
-
-<!--
 ## More
-
 {% include list.html component="card" data="projects" filter="!group" style="small" %}
 -->
