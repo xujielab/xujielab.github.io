@@ -14,7 +14,7 @@ Xu lab studies how mutations and epigenetic regulation shapes heterogeneous gene
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"

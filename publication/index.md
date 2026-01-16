@@ -7,8 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-dna" %}Pulibications & Preprints
 
-<!--{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}-->
--	**J. Xu**\*, K. Wang\*, Y. Jiang, Z. Wang, Y. Xie, R. Oshiro, K. Dong, X. Gao, S. Lee, F. Song, E. Armand, S. Zu, E. Hsu, N. Zemke, B. Ren. Decoding cell-type-specific transcriptional regulation by joint single-cell profiling of transcription factor binding and transcription. ***Under review***. 
+## HIGHLIGHTS
+{% include citation.html lookup="doi:10.1038/s41586-022-05365-x" style="rich" %}
+{% include citation.html lookup="doi:10.1038/s41592-021-01164-w" style="rich" %}
+{% include citation.html lookup="doi:10.1038/s41588-018-0195-8" style="rich" %}
+
+
+## LIST OF PUBLICATIONS
 -	**J. Xu**\*, F. Song\*, H. Lyu, M. Kobayashi, B. Zhang, Z. Zhao, Y. Hou, X. Wang, Y. Luan, B. Jia, L. Stasiak, J. H. Wong, Q. Wang, Qi Jin, Qiushi Jin, Y. Fu, H. Yang, R. C. Hardison, S. Dovat, L. C. Platanias, Y. Diao, Y. Yang, T. Yamada, A. Viny, R. L. Levine, D. Claxton, J. R. Broach, H. Zheng, F. Yue. Subtype-specific and reversible alteration of 3D genome structure in acute myeloid leukemia. Subtype-specific 3D genome alteration in acute myeloid leukaemia. ***Nature***. 611, 387-398, doi:10.1038/s41586-022-05365-x (2022) 
 -	**J. Xu**, B. Ren. Built to be imperfect. ***Nature Cell Biology*** 26 (8), 1229-1230 (2024). (News and Views)
 -	J. Dixon\*, **J. Xu**\*, V. Dileep\*, Y. Zhan\*, F. Song\*, V. T. Le, G. G. Yardimci, A. Chakraborty, D. V. Bann, Y. Wang, R. Clark, L. Zhang, H. Yang, T. Liu, I. sriranga, L. An, C. Pool, T. Sasaki, J. C. R. Mulia, H. Ozadam, B. R. Lajoie, R. Kaul, M. Buckley, K. Lee, M. Diegel, D. Pezic, C. Ernst, S. Hadjur, D. T. Odom, J. A. Stamatoyannopoulos, J. R. Broach, R. Hardison, F. Ay, W. S. Noble, J. Dekker, D. M. Gilbert and F. Yue, An integrative detection and analysis of structural variation in cancer genomes, ***Nature Genetics***. 50 (2018), no. 10, 1388-1398. (*co-first author)
