@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: xujielab
+title: Xu Lab
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@xujielab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: xujielab
-  twitter: xujielab
-  youtube: xujielab
+  email: jie_xu@med.unc.edu
+  orcid:
+  google-scholar: HXIYGL0AAAAJ
+#  github:
+#  twitter:
+#  youtube:
 
 ### jekyll settings
 
