@@ -35,7 +35,7 @@
   publisher: Nature
   date: '2022-10-26'
   link: https://doi.org/gq5cfp
-  image: null
+  image: images/publication/1.JPG
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41556-024-01408-9
@@ -92,7 +92,7 @@
   publisher: Nature Genetics
   date: '2018-09-10'
   link: https://doi.org/gfdj47
-  image: null
+  image: images/publication/2.JPG
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41592-021-01164-w
@@ -109,6 +109,6 @@
   publisher: Nature Methods
   date: '2021-06-01'
   link: https://doi.org/gkfn74
-  image: null
+  image: images/publication/3.JPG
   plugin: sources.py
   file: sources.yaml
