@@ -73,4 +73,24 @@
   display: none;
 }
 
+.team-pi-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.team-member-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  gap: 20px;
+}
+
 /*# sourceMappingURL=portrait.css.map */
