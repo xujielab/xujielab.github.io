@@ -1,5 +1,5 @@
 ---
-name: Jie Xu
+name: Jie Xu, PhD
 image: images/jie_xu.jpg
 role: principal-investigator
 affiliation: University of North Carolina, Chapel Hill

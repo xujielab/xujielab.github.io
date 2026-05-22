@@ -22,6 +22,14 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
+graduate:
+  icon: fa-solid fa-user-graduate
+  description: Graduate Student
+
+rotation-student:
+  icon: fa-solid fa-user-graduate
+  description: Rotation Student
+
 programmer:
   icon: fa-solid fa-code
   description: Programmer

@@ -9,8 +9,18 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+<div class="team-pi-row">
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+</div>
+
+<div class="team-member-grid">
+{% include list.html data="members" component="portrait" filter="role == 'lab-manager'" %}
+{% include list.html data="members" component="portrait" filter="name == 'Vincent Yang, PhD'" %}
+{% include list.html data="members" component="portrait" filter="name == 'George Wu'" %}
+{% include list.html data="members" component="portrait" filter="name == 'Meihui Feng'" %}
+{% include list.html data="members" component="portrait" filter="name == 'Yuyang Deng'" %}
+{% include list.html data="members" component="portrait" filter="name == 'Priyal Tyagi'" %}
+</div>
 
 <!--
 {% capture content %}
