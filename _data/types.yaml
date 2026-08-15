@@ -22,9 +22,13 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
-graduate:
+master:
   icon: fa-solid fa-user-graduate
-  description: Graduate Student
+  description: Master Student
+
+technician:
+  icon: fa-solid fa-vial-circle-check
+  description: Technician
 
 rotation-student:
   icon: fa-solid fa-user-graduate

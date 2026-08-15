@@ -1,7 +1,7 @@
 ---
-name: Meihui Feng
-image: images/meihui_feng.jpg
-role: master
+name: Esther Hsu
+image: images/esther_hsu.jpg
+role: technician
 affiliation: University of North Carolina, Chapel Hill
 aliases:
   -

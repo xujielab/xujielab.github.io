@@ -18,6 +18,7 @@ nav:
 {% include list.html data="members" component="portrait" filter="name == 'Vincent Yang, PhD'" %}
 {% include list.html data="members" component="portrait" filter="name == 'Meihui Feng'" %}
 {% include list.html data="members" component="portrait" filter="name == 'Yuyang Deng'" %}
+{% include list.html data="members" component="portrait" filter="name == 'Esther Hsu'" %}
 {% include list.html data="members" component="portrait" filter="name == 'Priyal Tyagi'" %}
 </div>
 
