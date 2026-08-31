@@ -166,3 +166,34 @@ header[data-big] {
     font-size: var(--large);
   }
 }
+
+header.background::before {
+  opacity: 1;
+}
+
+header .title {
+  font-weight: 700;
+  text-shadow:
+    -2px -2px 4px rgba(0, 0, 0, 0.9),
+     2px -2px 4px rgba(0, 0, 0, 0.9),
+    -2px  2px 4px rgba(0, 0, 0, 0.9),
+     2px  2px 4px rgba(0, 0, 0, 0.9);
+}
+
+header .subtitle {
+  font-weight: 700;
+  text-shadow: 0 2px 6px rgba(0, 0, 0, 0.85);
+}
+
+header nav a {
+  font-weight: 700;
+  text-shadow:
+    -2px -2px 4px rgba(0, 0, 0, 0.9),
+     2px -2px 4px rgba(0, 0, 0, 0.9),
+    -2px  2px 4px rgba(0, 0, 0, 0.9),
+     2px  2px 4px rgba(0, 0, 0, 0.9);
+}
+
+header .logo {
+  visibility: hidden;
+}
