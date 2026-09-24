@@ -3,7 +3,7 @@
 
 {% include section.html size=full %}
 
-Xu lab studies how mutations and epigenetic regulation shapes heterogeneous gene expression and cellular behavior in cancer using single-cell multi-omics technologies.
+Xu Lab at University of North Carolina, Chapel Hill, studies how mutations and epigenetic regulation shapes heterogeneous gene expression and cellular behavior in cancer using single-cell multi-omics technologies.
 
 {% include section.html %}
 
